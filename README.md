@@ -21,3 +21,5 @@ Yet another vim cheat sheet.
 7. Run `node postinstall.js` to copy the English entries to all other locales.
 8. Translate all languages you know.
 9. Commit.
+rama2
+emilio
